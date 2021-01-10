@@ -10,7 +10,7 @@ from email.mime.base import MIMEBase
 from PIL import Image,ImageTk
 tk = Tk()
 import requests
-tk.geometry("1000x550")
+tk.geometry("1000x650")
 tk.title("Desktop Mail")
 
 class Login:
